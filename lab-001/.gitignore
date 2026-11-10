@@ -1,0 +1,9 @@
+/* Ignored files */
+*.dat
+*.txt
+*.log
+*.config
+*.d
+*.o
+*.i
+udp-recv
